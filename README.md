@@ -38,14 +38,16 @@
 
 ---
 
+# Hi, I'm Shaifinn 👋
+
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=shaifinn&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaifinn&show_icons=true&v=1)
 
 ## 🔥 Contribution Streak
-![Streak](https://streak-stats.demolab.com?user=shaifinn)
+![GitHub Streak](https://streak-stats.demolab.com?user=shaifinn&v=1)
 
 ## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=shaifinn&row=1)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=shaifinn&row=1&v=1)
 
 ---
 
