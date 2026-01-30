@@ -1,69 +1,77 @@
-<h1 align="center">Hi 👋, I'm Shaifinn</h1>
-<h3 align="center">Software Development Engineer (SDE)</h3>
+# Hi 👋 I'm Shaifinn
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shaifinn&label=Profile%20views&color=0e75b6&style=flat" alt="shaifinn" />
-</p>
+### Software Development Engineer (SDE)
 
 ---
 
-### 👨‍💻 About Me
-- 💻 Software Development Engineer passionate about clean & scalable systems  
-- 🚀 Interested in backend development, system design & problem solving  
-- 🌱 Constantly learning and improving  
-- 🤝 Open to collaboration and open-source contributions  
+## 👨‍💻 About Me
+- Aspiring Software Development Engineer
+- Strong foundation in Frontend Development
+- Backend and Data Structures & Algorithms projects are currently in progress
+- Passionate about building practical, user-focused applications
+- Consistently improving problem-solving and system design skills
 
 ---
 
-### 🔗 Connect with Me
-<p>
-  <a href="https://linkedin.com/in/shaifinn" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white"/>
-  </a>
-</p>
+## 🛠️ Technical Skills
+
+### Programming Languages
+- HTML  
+- CSS  
+- JavaScript  
+- C  
+- C++  
+- Java  
+
+### Concepts
+- Frontend Development
+- Basic Backend Fundamentals (Learning Phase)
+- Data Structures & Algorithms (Ongoing)
+- Object-Oriented Programming
 
 ---
 
-### 🛠️ Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
-</p>
+## 📌 Frontend Projects
+
+### 1️⃣ Personal Portfolio
+- A responsive personal portfolio website
+- Showcases skills, projects, and contact information
+- Built using **HTML, CSS, and JavaScript**
+
+### 2️⃣ Fuel Tracker
+- Tracks fuel usage and expenses
+- Helps monitor fuel consumption patterns
+- Built using **HTML, CSS, and JavaScript**
+
+### 3️⃣ Household Expenses Tracker
+- Simple expense management application
+- Categorizes and tracks daily household expenses
+- Built using **HTML, CSS, and JavaScript**
+
+### 4️⃣ Spin Wheel Game
+- Interactive browser-based game
+- Focused on user interaction and DOM manipulation
+- Built using **HTML, CSS, and JavaScript**
+
+### 5️⃣ Shayari Page Using AI
+- Generates and displays Shayari content using AI concepts
+- Focused on UI and content presentation
+- Built using **HTML, CSS, and JavaScript**
 
 ---
 
-# Hi, I'm Shaifinn 👋
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaifinn&show_icons=true&v=1)
-
-## 🔥 Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=shaifinn&v=1)
-
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=shaifinn&row=1&v=1)
+## 🚧 Ongoing Work
+- Backend development projects (in progress)
+- Data Structures & Algorithms using **C++ and Java**
+- Improving problem-solving through consistent practice
 
 ---
 
-### 🔥 Contribution Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaifinn&theme=default" />
-</p>
+## 📈 GitHub Usage
+- Frontend projects available in public repositories
+- Backend and DSA repositories will be added soon
+- Regular commits to improve code quality and structure
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shaifinn&theme=flat&row=1" />
-</p>
-
----
-
-⭐️ *“Code. Learn. Improve. Repeat.”*
-
+⭐ *Code. Learn. Improve. Repeat.*
