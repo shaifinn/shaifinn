@@ -38,14 +38,14 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shaifinn&show_icons=true&theme=default" />
-</p>
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=shaifinn&show_icons=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaifinn&layout=compact&theme=default" />
-</p>
+## 🔥 Contribution Streak
+![Streak](https://streak-stats.demolab.com?user=shaifinn)
+
+## 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=shaifinn&row=1)
 
 ---
 
